@@ -1,0 +1,11 @@
+What do you call a programmer from Finland?#Nerd#An ‘Icelander’#A ‘Finn’ from the shell#Ctrl+Finn#A ‘Finn’ from the shell
+Why do Linux users never get lost?#They have ‘man’ pages#They use Google Maps#They follow the ‘ls’ command#They have GPS#They have ‘man’ pages
+What do you say to a bad programmer?#You’re not ‘git’ enough#Debug it#Keep trying#Try ‘sudo’ again#You’re not ‘git’ enough
+Why did the command line break up with the GUI?#Too much overhead#No space#Too controlling#Always clicking#Too much overhead
+What’s a Linux user’s favorite drink?#Root beer#Code Red#Java#Compiler coffee#Root beer
+Why do programmers prefer dark mode?#Light hurts their eyes#It’s cooler#They’re all vampires#It saves battery#It’s cooler
+What does a Linux penguin use to navigate?#‘cd’ - the ‘current directory’#A map#An IDE#A shell script#‘cd’ - the ‘current directory’
+Why don’t programmers like nature?#Too many bugs#Too many trees#No WiFi#No source code#Too many bugs
+What did the computer say to the user?#‘You’ve got mail!’#‘Error 404’#‘I’m not a toaster!’#‘Reboot me!’#‘I’m not a toaster!’
+Why did the programmer go broke?#Too many ‘cents’#Spent it all on RAM#Didn't ‘cache’ enough#Lost it in a loop#Didn't ‘cache’ enough
+
