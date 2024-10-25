@@ -9,7 +9,7 @@ This project is a Java Swing-based quiz application designed for a CSE 1116 Obje
 
 ## Add Your Own Questions
 
-If you want to customize the quiz questions, you can edit or populate questions.txt with questions in the following format:
+If you want to customize the quiz questions, you can edit or populate questions.txt with questions in the following format
 - **Question#Option1#Option2#Option3#Option4#CorrectOption
 
 
