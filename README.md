@@ -19,6 +19,8 @@ If you want to customize the quiz questions, you can edit or populate questions.
 
 ## Getting Started
 1. **Clone the repository**:
+2. **Compile and run the application**:
    ```bash
-   git clone https://github.com/your-username/swing-quiz-app.git
    cd swing-quiz-app
+   javac *.java
+   java Main
