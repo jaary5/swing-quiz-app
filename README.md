@@ -18,7 +18,7 @@ If you want to customize the quiz questions, you can edit or populate questions.
 - **Java Swing Library** (included in JDK)
 
 ## Getting Started
-1. **Clone the repository**:
+1. **Clone the repository**
 2. **Compile and run the application**:
    ```bash
    cd swing-quiz-app
