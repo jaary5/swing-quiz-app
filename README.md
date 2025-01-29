@@ -1,3 +1,11 @@
+# Interface
+![Interface ss1](static/images/inf1.png)
+![Interface ss2](static/images/inf2.png)
+![Interface ss3](static/images/inf3.png)
+![Interface ss4](static/images/inf4.png)
+![Interface ss5](static/images/inf5.png)
+
+
 # Swing Quiz App
 
 This project is a Java Swing-based quiz application designed for a CSE 1116 Object-Oriented Programming assignment. Users can take a fun quiz on a chosen topic, answering multiple-choice questions and seeing their score at the end. The app uses a simple GUI interface with Java Swing, reads questions from a text file, and calculates scores based on correct answers.
